@@ -2,7 +2,7 @@
 
 ## Requirements
 
-(Welcome to develop SFS-Font together.)
+(Welcome to develop SPH-Font together.)
 
 We recommend you to use [Anaconda](https://www.anaconda.com/) to manage your libraries.
 
